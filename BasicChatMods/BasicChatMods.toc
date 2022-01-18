@@ -1,0 +1,23 @@
+## Interface: 30300
+## Author: Funkydude
+## X-Credits: Rabbit & Ammo (SCM)
+## Notes: Basic Chat Mods!
+## Version: 3.5
+## Title: BasicChatMods
+## X-Category: Chat/Communication
+## X-License: All Rights Reserved
+## OptionalDeps: Blizzard_CombatLog, LibSharedMedia-3.0, SharedMedia
+## X-Curse-Packaged-Version: v3.5
+## X-Curse-Project-Name: BasicChatMods
+## X-Curse-Project-ID: basic-chat-mods
+## X-Curse-Repository-ID: wow/basic-chat-mods/mainline
+
+buttons.lua
+channelnames.lua
+chatcopy.lua
+editbox.lua
+justify.lua
+scroll.lua
+sticky.lua
+urlcopy.lua
+
